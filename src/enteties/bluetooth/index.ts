@@ -1,0 +1,2 @@
+export { getDevices } from './api';
+
